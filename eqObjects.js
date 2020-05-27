@@ -21,7 +21,6 @@ const eqObjects = function(object1, object2) {
       if (!eqArrays(object1[key], object2[key])) // if eqArrays test results in false
         return false;
     } else if (object1[key] !== object2[key]) {
-      console.log('can you see me');
       return false;
     }
   }
