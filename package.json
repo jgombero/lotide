@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@jgombero/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A mini clone of the Lodash library",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/jgombero/lotide.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Joshua Gomberoff <joshuagomberoff@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jgombero/lotide/issues"
