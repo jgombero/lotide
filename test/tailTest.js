@@ -18,9 +18,9 @@ describe('#tail', () => {
   });
 
   it('returns its original length of 3 when passed through the function', () => {
-const input = ["Yo Yo", "Lighthouse", "Labs"];
-tail(input);
-const expected = 3;
+    const input = ["Yo Yo", "Lighthouse", "Labs"];
+    tail(input);
+    const expected = 3;
 
 assert.strictEqual(input.length, expected);
   });
