@@ -22,6 +22,6 @@ describe('#tail', () => {
     tail(input);
     const expected = 3;
 
-assert.strictEqual(input.length, expected);
+    assert.strictEqual(input.length, expected);
   });
 });
