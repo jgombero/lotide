@@ -32,3 +32,8 @@ The following functions are currently implemented:
 * `head(arr)` : returns the head of an array
 * `middle(arr)` : returns the middle element(s) of an array
 * `tail(arr)` : returns the tail of an array
+* `eqObjects(obj1, obj2)` : returns true if two objects are equal
+* `findKeyByValue(obj, val)` : returns the key of a given value of an object
+* `letterPositions(str)` : returns the first index of a given character in a string
+* `countOnly(arr, str)` : returns the number of times an item appears in an array
+* `flatten(arr)` : returns a flattened array from a nested array
